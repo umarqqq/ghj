@@ -1,0 +1,41 @@
+h1{
+    color: coral;
+    box-shadow: 4px 4px 4px 4px gray;
+    background-color: aqua;
+}
+h2{
+    color: green;
+}
+.centered{
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+}
+
+nav{
+    justify-content: space-around;
+    display: flex;
+   }
+
+
+header{
+    color: aqua;
+}
+
+nav a{
+background-color: azure;
+box-shadow: 3px 3px 3px 3px;
+font-size: 15px;
+border-top: 3px;
+padding: 8px;
+}
+p{
+    font-size: 50px;
+}
+main{
+    background-image: linear-gradient(to right, yellow,aqua);
+}
+footer{
+    font-size: 45px;
+ background-image: linear-gradient(to right, yellow,gold);
+}
